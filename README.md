@@ -1,2 +1,3 @@
-# CONNECT-FOUR-
-a fun game 
+# CONNECT-FOUR-GAME
+a fun game, connect four match to win 
+created  with Javascript
